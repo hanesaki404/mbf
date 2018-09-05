@@ -1,2 +1,2 @@
 # mbf
-Multi Brute Force [mbf]
+Versi 2
